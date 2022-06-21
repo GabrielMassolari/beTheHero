@@ -5,7 +5,7 @@
 
 ## :desktop_computer: Principais Tecnologias 
 - Framework **React** para desenvolvimento do Site. 
-- Framework **React Native** para desenvolvimento do Site. 
+- Framework **React Native** para desenvolvimento do Aplicativo. 
 - **NodeJS** para desenvolvimento do Backend.
 - **Sqlite** para armazenar os dados.
 - **Jest** para realizar testes automatizados no Backend.
